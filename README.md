@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemantprataps" alt="hemantprataps" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [xyz](xyz)
+- 👨‍💻 All of my projects are available at https://hemantprataps.github.io/
 
 - 💬 Ask me about **ReactJS, JavaScript,CSS,HTML and Data Structures and Algorithms**
 
